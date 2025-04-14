@@ -119,8 +119,9 @@ export default function Home() {
     <div className="flex flex-col items-center justify-start h-screen bg-secondary">
       <header className="w-full py-4 bg-accent shadow-md">
         <div className="container mx-auto px-4 flex items-center justify-center gap-2">
-          <img src="/images/VitalHeathLogo.png" alt="Logo 1" className="h-20 rounded-md" />
-          <img src="/images/UnaItabira.png" alt="Logo 2" className="h-20 rounded-md" />
+          <img src="/images/Logo-HNSD-simbolo.png" alt="Logo 1" className="h-20 rounded-md" />
+          <img src="/images/VitalHeathLogo.png" alt="Logo 2" className="h-20 rounded-md" />
+          <img src="/images/UnaItabira.png" alt="Logo 3" className="h-20 rounded-md" />
         </div>
       </header>
 
