@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Vital Healt Insights',
+  title: 'Vital Health Insights',
   description: 'Vital Healths Insights | Una Itabira',
 };
 
